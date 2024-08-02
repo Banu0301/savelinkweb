@@ -1,0 +1,15 @@
+/* src/App.css */
+.app-container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.add-link-form, .folder-manager-form {
+  margin-bottom: 20px;
+}
+
+.MuiTextField-root {
+  margin-bottom: 10px;
+}
